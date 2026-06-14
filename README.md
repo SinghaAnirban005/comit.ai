@@ -3,6 +3,9 @@
 > AI powered conventional commit messages generated from your staged diff using Groq LLM.
 
 
+<img width="800" height="465" alt="cursorful-video-1781459936428-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/f54a43e3-78d1-4b94-bd01-4c7f01b6192c" />
+
+
 ## Features
 
 - **Conventional Commits** — strict `type(scope): subject` format, always
